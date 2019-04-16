@@ -1,0 +1,5 @@
+commit c84202ee7223264f028596e8c5740599647112df (HEAD -> logs, origin/master, master)
+Author: unknown <Kristijan.Donevski@students.finki.ukim.mk>
+Date:   Tue Apr 16 16:00:31 2019 +0200
+
+    Initial commit
